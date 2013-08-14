@@ -11,4 +11,4 @@
 公有云请到明道开放平台创建应用 <http://open.mingdao.com> 私有部署请联系管理员创建应用并获取令牌
 
 
-具体开发指南请见《[明道开放平台指南](http://open.mingdao.com/md_develog_tread.html)》
+具体开发指南请见《[明道开放平台指南](http://open.mingdao.com/md_develop_tread.html)》
