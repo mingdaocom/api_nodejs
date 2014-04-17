@@ -1,0 +1,23 @@
+{
+  "name": "mingdaoapi",
+  "version": "1.0.0",
+  "description": "明道NodeJS SDK",
+  "keywords": [
+    "api","SDK"
+  ],
+  "dependencies": {
+  "express": ">=3.3.1"
+  },
+  "devDependencies": {
+  },
+  "contributors": [
+    {
+      "name": "Jerry",
+      "email": "jerry.jin@mingdao.com"
+    },
+    {
+      "name": "Raven",
+      "email": "raven.zhu@mingdao.com"
+    }
+  ]
+}
