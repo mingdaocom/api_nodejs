@@ -11,7 +11,7 @@ app.configure(function() {
         app.set("port", config.server.port);
         app.use(express.cookieParser());
         app.use(express.cookieSession({
-             secret: "md",
+             secret: "md"
         }));
 });
 

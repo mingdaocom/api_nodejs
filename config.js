@@ -1,7 +1,7 @@
 ﻿var config = {
     app: {
-        appKey: 'your api key',     //分配到的App_Key
-        appSecret: 'your api secret',  //分配到的App_Secret
+        appKey: '',     //分配到的App_Key
+        appSecret: '',  //分配到的App_Secret
         apiBaseUrl: 'https://api.mingdao.com/',
         //授权回调地址，站外应用需与设置的回调地址一致
         GetRedirectUrl: function () {
@@ -16,7 +16,7 @@
     },
     server: {
         host: 'localhost',
-        port:808                   
+        port: 808
     },
     api: {
         post: {
